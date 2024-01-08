@@ -1,5 +1,4 @@
 This customization assumes that the directory lies in ~/Downloads.
-Create a symlink of restart script in ~/.local/bin/ and add it is init script like ~/.xprofile or custom like autostart.sh of dwm.
 
 # dwmblocks
 
